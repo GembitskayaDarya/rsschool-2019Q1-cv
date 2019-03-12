@@ -1,0 +1,29 @@
+.section{
+    max-width: 1024px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+
+}
+img{
+    height: 45vh;
+    margin: 0 30vw;
+    padding-left: 5vw;
+    padding-top: 3vh;
+
+}
+.photo{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    width: 100vw;
+}
+h1{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+    font-style: italic;
+}
