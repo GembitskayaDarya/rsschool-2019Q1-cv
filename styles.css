@@ -4,11 +4,12 @@
     text-align: left;
     background-color: black;
     color: white;
+    padding-left: 20px;
 
 }
 img{
-    height: 30vh;
-    margin: 0 50vw;
+    height: 45vh;
+    margin: 0 30vw;
     padding-left: 5vw;
     padding-top: 3vh;
 
@@ -21,4 +22,8 @@ img{
 }
 h1{
     text-align: center;
+}
+.bold{
+    font-weight: bolder;
+    font-style: italic;
 }
